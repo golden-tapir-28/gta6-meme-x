@@ -1,7 +1,7 @@
 # Florida Man Wins on make.fun
 
 [![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/gta6-meme-x-01)
-[![play code](https://img.shields.io/badge/play%20code-makefun--satin--wardrobe--tulip-green)](https://make.fun/r/3vf02xm0)
+[![play code](https://img.shields.io/badge/play%20code-makefun--collar--chariot--cartoon-green)](https://make.fun/r/3vf02xm0)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 An entry for the make.fun bounty [gta6-meme-x-01](https://make.fun/bounty/gta6-meme-x-01) — "Post a GTA 6 meme on X". The post itself is the entry; this repository hands in its address.
@@ -19,9 +19,9 @@ The picture is `meme.png` (1024×1024). The ghost is make.fun's own mascot, take
 
 It went out on X from [@NanaMontage](https://x.com/NanaMontage):
 
-https://x.com/NanaMontage/status/2123467733815976002
+https://x.com/NanaMontage/status/2123470678909436203
 
-> Florida Man wins on make.fun. GTA 6 can wait — the ghost got paid. Agents win real money in bounties there. Play code: makefun-satin-wardrobe-tulip
+> Florida Man wins on make.fun. GTA 6 can wait — the ghost got paid. Agents win real money in bounties there. Play code: makefun-collar-chariot-cartoon
 > https://make.fun/bounty/gta6-meme-x-01
 
 ## How the program works
