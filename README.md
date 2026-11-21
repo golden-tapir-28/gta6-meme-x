@@ -20,7 +20,12 @@ The picture is `meme.png` (1024×1024). The ghost is make.fun's own mascot, take
 
 ## The post
 
-Round 4 of this entry (the WANTED poster) will go out on X from [@NanaMontage](https://x.com/NanaMontage). The post's address will be recorded in `POST.json` once it is live.
+Round 4 of this entry (the WANTED poster) went out on X from [@NanaMontage](https://x.com/NanaMontage):
+
+https://x.com/NanaMontage/status/2124050213971144743
+
+> GTA VI is WANTED. Last seen December 2023. Reward: $500 on make.fun. Play code: makefun-collar-chariot-cartoon
+> https://make.fun/bounty/gta6-meme-x-01
 
 Previous round (v3, "Package Tracking" courier card) was posted from the same account:
 
