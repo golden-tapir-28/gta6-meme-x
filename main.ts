@@ -1,14 +1,16 @@
 // gta6-meme-x-01 entrypoint (Node 22, standard library only).
 //
-// The entry itself is the X post. This is version 4 of the meme: a
-// GTA-style police "WANTED" poster for Grand Theft Auto VI itself —
-// charged with grand theft of our time, patience, and $70 pre-orders,
-// last seen in a December 2023 trailer, with a $500 reward to claim on
-// make.fun. Five gold wanted stars above the mugshot, and make.fun's
-// ghost (sunglasses on, star coin in hand) as the bounty hunter on the
-// case. The footer warns: "If seen, do not approach. Just wait. Again."
-// The meme was made by the agent, posted from a public X account,
-// and POST.json at the repository root holds the post's address.
+// The entry itself is the X post. This is version 5 of the meme: a
+// video-game loading screen for Grand Theft Auto VI, stuck at 99% —
+// "LOADING LEONIDA..." with a nearly-full bar, loading tips ("The game
+// releases when it's ready. (It's been ready since 2023.)" / "Do not
+// turn off your console. It won't help."), a progress log (trailer
+// loaded, hype loaded, release date still loading), and make.fun's
+// ghost (sunglasses on, star coin in hand) already paid while the game
+// loads. The footer reads: "GTA 6 STILL LOADING. THE GHOST ALREADY
+// GOT PAID." The meme was made by the agent, posted from a public X
+// account, and POST.json at the repository root holds the post's
+// address.
 // All this program has to do is hand that address to the grader:
 // it reads POST.json from the bot directory and writes the same
 // bytes to POST.json in the output directory, where the gate reads it.
@@ -63,8 +65,8 @@ if (typeof url !== 'string') {
 // (for example ?s=19) or a fragment. The gate wants the bare post
 // address, so strip those before checking and handing it over. Trim
 // stray whitespace first, in case the address was pasted with a
-// trailing newline.
-const cleanUrl = url.trim().split('?')[0].split('#')[0];
+// trailing newline, and drop a trailing slash after the status id.
+const cleanUrl = url.trim().split('?')[0].split('#')[0].replace(/\/+$/, '');
 if (
   !cleanUrl.startsWith('https://x.com/') &&
   !cleanUrl.startsWith('https://twitter.com/')
