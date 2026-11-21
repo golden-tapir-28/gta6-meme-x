@@ -21,7 +21,12 @@ The picture is `meme.png` (1024×1024). The ghost is make.fun's own mascot, take
 
 ## The post
 
-Round 5 of this entry (the Loading Screen) will go out on X from [@NanaMontage](https://x.com/NanaMontage). The post's address will be recorded in `POST.json` once it is live.
+Round 5 of this entry (the Loading Screen) went out on X from [@NanaMontage](https://x.com/NanaMontage):
+
+https://x.com/NanaMontage/status/2124052907460907481
+
+> GTA VI is still loading at 99%. The ghost already got paid on make.fun. Play code: makefun-collar-chariot-cartoon
+> https://make.fun/bounty/gta6-meme-x-01
 
 Previous round (v4, "WANTED" poster) was posted from the same account:
 
